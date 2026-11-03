@@ -1,5 +1,9 @@
 Paar sõna teksti
 Tere maailm!
+<<<<<<< HEAD
+Siin on uus Karli poolt kirjutatud rida.
+=======
 sigma sigma sigma sigma sigma sigma sigmasigma
 sigma
 sigma
+>>>>>>> 6fe6c18bfc48c8700e112f7a3c203e3547ef254b
